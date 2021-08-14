@@ -41,9 +41,6 @@ I'm a freelance software developer and a student of the University of Profession
 ### 📫 How to reach me: 
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/codewithibrahim) 
-[![](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/codewithibrahim) 
-
-
 
 
 ### ⚡ Fun fact:
