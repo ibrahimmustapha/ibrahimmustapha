@@ -3,6 +3,12 @@
 I'm a freelance software developer and a student of the University of Professional Studies Accra (Ghana). A place of beauty and nature. I've being an enthusiast of art and designing. I always try to design stuff with my unique point of view. I also love to create things that can be usefull to others. Also looking forward to finding my first developer job. 
 
 
+## Github staus
+
+![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=ibrahimmustapha&theme=dark)
+
+
+
 ### 🔭 I’m currently working on
 
 - Personal Portfolio Website 
@@ -34,9 +40,8 @@ I'm a freelance software developer and a student of the University of Profession
 
 ### 📫 How to reach me: 
 
-- Gmail musib581@gmail.com
-- Twitter https://twitter.com/codewithibrahim
-- Whatsapp +233 (0) 57812542
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/codewithibrahim) 
+
 
 
 ### ⚡ Fun fact:
