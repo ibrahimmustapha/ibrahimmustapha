@@ -1,16 +1,46 @@
 ### Hi there 👋
 
-<!--
-**ibrahimmustapha/ibrahimmustapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance software developer and a student of the University of Professional Studies Accra (Ghana). A place of beauty and nature. I've being an enthusiast of art and designing. I always try to design stuff with my unique point of view. I also love to create things that can be usefull to others. Also looking forward to finding my first developer job. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+
+- Personal Portfolio Website 
+- Blogging Website 
+- Motivation Mobile Application
+
+
+### 🌱 I’m currently learning
+
+- Java EE
+- React
+- React Native
+- Data Structures and Algorithms
+- Node js 
+
+### 👯 I’m looking to collaborate on
+
+- Anything Java or JavaScript is kk for now😊
+
+
+### 💬 Ask me about
+
+- Android Development 
+- Java
+- SQL
+- Node js
+
+
+### 📫 How to reach me: 
+
+- Gmail musib581@gmail.com
+- Twitter codewithibrahim
+- Whatsapp +233 (0) 57812542
+
+
+### ⚡ Fun fact:
+Did know the Java programming was called Oak at the beginning and the second most popular programming? I bet you didn't know😊
+
+
+### Wanna read my blogs?
+- comming sooooon!
