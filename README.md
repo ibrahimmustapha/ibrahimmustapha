@@ -18,6 +18,7 @@ I'm a freelance software developer and a student of the University of Profession
 - Data Structures and Algorithms
 - Node js 
 
+
 ### 👯 I’m looking to collaborate on
 
 - Anything Java or JavaScript is kk for now😊
@@ -34,7 +35,7 @@ I'm a freelance software developer and a student of the University of Profession
 ### 📫 How to reach me: 
 
 - Gmail musib581@gmail.com
-- Twitter codewithibrahim
+- Twitter https://twitter.com/codewithibrahim
 - Whatsapp +233 (0) 57812542
 
 
