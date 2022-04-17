@@ -18,7 +18,7 @@ I'm a freelance software developer and a student of the University of Profession
 
 ### 🌱 I’m currently learning
 
-- Java EE
+- Spring Boot
 - React
 - React Native
 - Data Structures and Algorithms
