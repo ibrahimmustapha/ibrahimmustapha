@@ -20,6 +20,7 @@ I'm a freelance software developer and a student of the University of Profession
 
 - Spring Boot
 - React
+- GatsbyJs
 - React Native
 - Data Structures and Algorithms
 - Node js 
